@@ -1,0 +1,52 @@
+# Publica o vault como site no GitHub Pages a cada push na branch main.
+# Uma vez só, no GitHub: Settings > Pages > Source = "GitHub Actions".
+name: Publicar site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instalar dependências
+        working-directory: .site
+        run: npm ci
+      - name: Copiar o vault para o site
+        working-directory: .site
+        run: node preparar.mjs
+      - name: Gerar o site
+        working-directory: .site
+        run: npx quartz build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .site/public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
