@@ -156,7 +156,50 @@ function montarMapa(raiz: HTMLElement) {
   aplicar()
 }
 
+
+// botões para esconder as barras laterais no computador (lembrados entre visitas)
+const BARRAS: [string, string, string, string][] = [
+  ["esquerda", "aw-sem-esquerda", "barra da esquerda", '<rect width="18" height="18" x="3" y="3" rx="2"/><path d="M9 3v18"/>'],
+  ["direita", "aw-sem-direita", "barra da direita", '<rect width="18" height="18" x="3" y="3" rx="2"/><path d="M15 3v18"/>'],
+]
+function barraFechada(k: string): boolean {
+  try {
+    return localStorage.getItem("aw-barra-" + k) === "fechada"
+  } catch {
+    return false
+  }
+}
+function aplicarBarras() {
+  for (const [k, cls] of BARRAS) document.documentElement.classList.toggle(cls, barraFechada(k))
+}
+aplicarBarras()
+function botoesBarras() {
+  if (document.querySelector(".aw-barras")) return
+  const caixa = document.createElement("div")
+  caixa.className = "aw-barras"
+  for (const [k, cls, rotulo, svg] of BARRAS) {
+    const b = document.createElement("button")
+    b.type = "button"
+    b.className = "aw-barra-bt aw-barra-" + k
+    b.title = "Mostrar ou esconder a " + rotulo
+    b.setAttribute("aria-label", b.title)
+    b.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${svg}</svg>`
+    b.addEventListener("click", () => {
+      const fechar = !document.documentElement.classList.contains(cls)
+      try {
+        localStorage.setItem("aw-barra-" + k, fechar ? "fechada" : "aberta")
+      } catch {}
+      aplicarBarras()
+    })
+    caixa.append(b)
+  }
+  document.body.append(caixa)
+}
+
 document.addEventListener("nav", () => {
+  aplicarBarras()
+  botoesBarras()
+
   const artigo = document.querySelector("article") as HTMLElement | null
   if (!artigo) return
 

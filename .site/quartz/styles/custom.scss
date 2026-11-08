@@ -1013,3 +1013,32 @@ a.aw-ganchos-sessao { display: block; font-family: var(--font-titulo); font-weig
 
 /* mapa (no Obsidian é o Leaflet) */
 .aw-leaflet img { width: 100%; height: auto; border: 1px solid #c9a24a; cursor: zoom-in; }
+
+/* ---------- esconder as barras laterais (computador e tablet) ---------- */
+.aw-barras { position: fixed; top: 10px; right: 12px; z-index: 900; display: flex; gap: 4px; }
+.aw-barra-bt {
+  display: inline-flex; padding: 5px; background: var(--light); color: var(--gray);
+  border: 1px solid var(--lightgray); border-radius: 4px; cursor: pointer;
+}
+.aw-barra-bt:hover { color: var(--secondary); border-color: var(--secondary); }
+html.aw-sem-esquerda .aw-barra-esquerda,
+html.aw-sem-direita .aw-barra-direita { color: var(--secondary); border-color: var(--secondary); }
+@media all and (max-width: 800px) {
+  .aw-barras { display: none; }
+}
+@media all and (min-width: 801px) {
+  html.aw-sem-esquerda #quartz-body .sidebar.left { display: none !important; }
+  html.aw-sem-direita #quartz-body .sidebar.right { display: none !important; }
+  /* o Quartz posiciona o miolo pela ordem; sem a barra da esquerda ele cairia na coluna vazia */
+  html.aw-sem-esquerda #quartz-body .center,
+  html.aw-sem-direita #quartz-body .center { grid-area: grid-center; }
+}
+@media all and (min-width: 801px) and (max-width: 1200px) {
+  html.aw-sem-esquerda .page > #quartz-body { grid-template-columns: 0 auto; }
+}
+@media all and (min-width: 1201px) {
+  html.aw-sem-esquerda .page > #quartz-body { grid-template-columns: 0 auto 320px; }
+  html.aw-sem-direita .page > #quartz-body { grid-template-columns: 320px auto 0; }
+  html.aw-sem-esquerda.aw-sem-direita .page > #quartz-body { grid-template-columns: 0 auto 0; }
+  html.aw-sem-esquerda.aw-sem-direita #quartz-body .center { min-width: 0; width: 100%; max-width: 960px; margin: 0 auto; }
+}
