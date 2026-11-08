@@ -8,6 +8,7 @@
 .site/node_modules/
 .site/public/
 .site/.quartz-cache/
+.site/quartz/.quartz-cache/
 
 # lixo do sistema
 .DS_Store
