@@ -1,0 +1,9 @@
+{
+  "id": "andaluria-wiki",
+  "name": "Andaluria Wiki",
+  "version": "1.2.2",
+  "minAppVersion": "1.4.0",
+  "description": "Fichas, cartões, mapa, navegação e mesa do mestre para os vaults de Andaluria.",
+  "author": "Pedro",
+  "isDesktopOnly": false
+}

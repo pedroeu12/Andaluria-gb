@@ -1,0 +1,10 @@
+{
+  "id": "wonderful-cards",
+  "name": "Wonderful Cards",
+  "version": "1.1.0",
+  "minAppVersion": "1.13.0",
+  "description": "Создавайте и отображайте красивые карточки магических предметов для D&D.",
+  "author": "trikorka",
+  "authorUrl": "https://github.com/trikorka",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,372 @@
+{
+ "inicio": "00 - Início",
+ "mapa": "Mapa",
+ "cache": "Anexos/gravuras",
+ "abrirInicio": false,
+ "botoes": {
+  "inicio": true,
+  "mapa": true,
+  "aleatoria": false,
+  "nova": false
+ },
+ "secoes": [
+  [
+   "Início",
+   "home",
+   "00 - Início"
+  ],
+  [
+   "Mesa",
+   "dices",
+   "Mesa"
+  ],
+  [
+   "Lugares",
+   "map-pin",
+   "Lugares"
+  ],
+  [
+   "Mapa",
+   "map",
+   "Mapa"
+  ],
+  [
+   "NPCs",
+   "users",
+   "NPCs"
+  ],
+  [
+   "Personagens",
+   "swords",
+   "Personagens"
+  ],
+  [
+   "Facções",
+   "shield",
+   "Facções"
+  ],
+  [
+   "Monstros",
+   "skull",
+   "Monstros"
+  ],
+  [
+   "Tramas",
+   "eye",
+   "Tramas e Segredos"
+  ],
+  [
+   "Mundo",
+   "book-open",
+   "Mundo"
+  ],
+  [
+   "Environments",
+   "mountain",
+   "Environments"
+  ],
+  [
+   "Sessões",
+   "scroll",
+   "Índice de Sessões"
+  ]
+ ],
+ "secaoPorTipo": {
+  "lugar": "Lugares",
+  "pessoa": "NPCs",
+  "faccao": "Facções",
+  "criatura": "Monstros",
+  "trama": "Tramas e Segredos",
+  "mundo": "Mundo",
+  "item": "Mundo",
+  "cacador": "Personagens",
+  "diario": "Índice de Sessões",
+  "regra": "Regras"
+ },
+ "derivar": true,
+ "tiposPorTag": [
+  [
+   "ficha",
+   "guia"
+  ],
+  [
+   "mesa",
+   "guia"
+  ],
+  [
+   "regra",
+   "regra"
+  ],
+  [
+   "pc",
+   "cacador"
+  ],
+  [
+   "personagem",
+   "cacador"
+  ],
+  [
+   "sumario",
+   "guia"
+  ],
+  [
+   "inicio",
+   "guia"
+  ],
+  [
+   "indice",
+   "guia"
+  ],
+  [
+   "ferramenta",
+   "guia"
+  ],
+  [
+   "campanha",
+   "guia"
+  ],
+  [
+   "npc",
+   "pessoa"
+  ],
+  [
+   "monstro",
+   "criatura"
+  ],
+  [
+   "lugar",
+   "lugar"
+  ],
+  [
+   "trama",
+   "trama"
+  ],
+  [
+   "segredo",
+   "trama"
+  ],
+  [
+   "faccao",
+   "faccao"
+  ],
+  [
+   "sessao",
+   "diario"
+  ],
+  [
+   "preparacao",
+   "diario"
+  ],
+  [
+   "item",
+   "item"
+  ],
+  [
+   "mundo",
+   "mundo"
+  ],
+  [
+   "cultura",
+   "mundo"
+  ],
+  [
+   "historia",
+   "mundo"
+  ],
+  [
+   "religiao",
+   "mundo"
+  ],
+  [
+   "povo",
+   "mundo"
+  ]
+ ],
+ "indicePorTag": [
+  "sumario",
+  "inicio",
+  "indice",
+  "ferramenta",
+  "campanha",
+  "ficha",
+  "mesa"
+ ],
+ "ignorar": [
+  "Modelos/"
+ ],
+ "ondePorPasta": true,
+ "pastas": {
+  "Lugares": null,
+  "Andaluria (região)": null,
+  "Monstros e Caça": null,
+  "Serracorte": "Montanhas Serracorte",
+  "Sessões": null,
+  "Preparação": null,
+  "Personagens": null,
+  "Modelos": null,
+  "Mesa": null,
+  "Regras": null,
+  "Adversaries": null,
+  "Environments": null
+ },
+ "erguer": true,
+ "icones": true,
+ "ambiente": "Trilha Sonora",
+ "pastaLugares": "Lugares",
+ "migracoes": [
+  {
+   "de": "Personagens/Shii Tak.md",
+   "para": "Personagens/Shii Tak/Shii Tak.md"
+  },
+  {
+   "de": "Personagens/Maarcio.md",
+   "para": "Personagens/Maarcio/Maarcio.md"
+  },
+  {
+   "de": "Sessões/Sessão 00 - Sessão Zero.md",
+   "para": "Sessões/Sessão 00/Sessão 00 - Sessão Zero.md"
+  },
+  {
+   "de": "Sessões/Sessão 01.md",
+   "para": "Sessões/Sessão 01/Sessão 01.md"
+  },
+  {
+   "de": "Sessões/Preparação/Preparação 01.md",
+   "para": "Sessões/Sessão 01/Preparação 01.md"
+  },
+  {
+   "de": "Sessões/Preparação/Preparação 02.md",
+   "para": "Sessões/Sessão 02/Preparação 02.md"
+  }
+ ],
+ "novos": {
+  "pessoa": {
+   "rotulo": "Novo NPC",
+   "modelo": "Modelos/Modelo - NPC.md",
+   "sumario": "NPCs",
+   "linha": "| [[{nome}]] | {papel} |  | {lugarLink} |",
+   "campos": [
+    [
+     "papel",
+     "Papel",
+     "ex.: ferreiro da vila"
+    ]
+   ],
+   "preencher": [
+    [
+     "| **Papel** |  |",
+     "| **Papel** | {papel} |"
+    ],
+    [
+     "| **Onde encontrar** |  |",
+     "| **Onde encontrar** | {lugarLink} |"
+    ]
+   ]
+  },
+  "lugar": {
+   "rotulo": "Novo lugar",
+   "novaPasta": true,
+   "modelo": "Modelos/Modelo - Lugar.md",
+   "sumario": "Lugares",
+   "linha": "| [[{nome}]] | {oque} |  |  |  |",
+   "campos": [
+    [
+     "oque",
+     "O que é",
+     "ex.: vila de pescadores"
+    ]
+   ],
+   "preencher": [
+    [
+     "**Tipo:** ",
+     "**Tipo:** {oque}"
+    ],
+    [
+     "**Região:** ",
+     "**Região:** {lugarLink}"
+    ]
+   ]
+  },
+  "faccao": {
+   "rotulo": "Nova facção",
+   "modelo": "Modelos/Modelo - Facção.md",
+   "sumario": "Facções",
+   "linha": "| [[{nome}]] | {oque} |  | {lugarLink} |",
+   "campos": [
+    [
+     "oque",
+     "Tipo",
+     "ex.: guilda de mercadores"
+    ]
+   ],
+   "preencher": [
+    [
+     "**Tipo:** ",
+     "**Tipo:** {oque}"
+    ],
+    [
+     "**Sede:** ",
+     "**Sede:** {lugarLink}"
+    ]
+   ]
+  },
+  "criatura": {
+   "rotulo": "Novo monstro",
+   "modelo": "Modelos/Modelo - Monstro.md",
+   "sumario": "Monstros",
+   "linha": "| [[{nome}]] | {oque} | {lugarLink} | ? | ativo |",
+   "campos": [
+    [
+     "oque",
+     "O que é",
+     "ex.: morto que anda"
+    ]
+   ],
+   "preencher": [
+    [
+     "**Onde:** ",
+     "**Onde:** {lugarLink}"
+    ]
+   ]
+  },
+  "trama": {
+   "rotulo": "Nova trama",
+   "modelo": "Modelos/Modelo - Trama.md",
+   "sumario": "Tramas e Segredos",
+   "linha": "| [[{nome}]] | {lugarLink} | {quem} | não |",
+   "campos": [
+    [
+     "quem",
+     "Envolvidos",
+     "quem está por trás"
+    ]
+   ],
+   "preencher": [
+    [
+     "**Onde:** ",
+     "**Onde:** {lugarLink}"
+    ],
+    [
+     "**Envolvidos:** ",
+     "**Envolvidos:** {quem}"
+    ]
+   ]
+  },
+  "sessao": {
+   "rotulo": "Nova sessão",
+   "sessao": true,
+   "modelo": "Modelos/Modelo - Sessão.md",
+   "modeloPrep": "Modelos/Modelo - Preparação.md",
+   "pasta": "Sessões/Sessão {n}",
+   "pastaPrep": "Sessões/Sessão {n}",
+   "sumario": "Índice de Sessões",
+   "linha": "| [[Sessão {n}]] | [[Preparação {n}]] | {data} |  |"
+  }
+ },
+ "limparPastas": [
+  "Sessões/Preparação"
+ ],
+ "pastasIgnorar": [
+  "^Sess[ãa]o \\d+"
+ ]
+}

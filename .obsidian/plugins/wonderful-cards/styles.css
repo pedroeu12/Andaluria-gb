@@ -1,0 +1,347 @@
+/* ═══════════════════════════════════════
+   Wonderful Cards — Card Styles
+   Obsidian-native D&D item card design
+   ═══════════════════════════════════════ */
+
+/* ── Card container ── */
+.wc-card {
+    min-width: 400px;
+    margin: var(--size-4-6) auto;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08),
+        0 1px 2px rgba(0, 0, 0, 0.06);
+    font-family: var(--font-text);
+    transition: box-shadow 0.25s ease, transform 0.25s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.wc-card--custom-width {
+    width: var(--wc-card-width, 400px);
+    max-width: 100%;
+}
+
+.wc-card--clickable {
+    cursor: pointer;
+}
+
+.wc-card:hover {
+    box-shadow:
+        0 8px 24px rgba(0, 0, 0, 0.12),
+        0 2px 6px rgba(0, 0, 0, 0.08);
+    transform: translateY(-1px);
+}
+
+/* ═══ Accent bar — rarity colors ═══ */
+.wc-card-accent {
+    height: 5px;
+    flex-shrink: 0;
+}
+
+.wc-rarity--default .wc-card-accent  { background: #7c3aed; }
+.wc-rarity--common .wc-card-accent   { background: #9ca3af; }
+.wc-rarity--uncommon .wc-card-accent { background: #34d399; }
+.wc-rarity--rare .wc-card-accent     { background: #60a5fa; }
+.wc-rarity--veryrare .wc-card-accent { background: #a78bfa; }
+.wc-rarity--legendary .wc-card-accent{ background: #fbbf24; }
+.wc-rarity--artifact .wc-card-accent { background: #f87171; }
+
+/* ═══ Meta line — rarity-colored text ═══ */
+.wc-rarity--default .wc-card-meta  { color: #a78bfa; }
+.wc-rarity--common .wc-card-meta   { color: #9ca3af; }
+.wc-rarity--uncommon .wc-card-meta { color: #34d399; }
+.wc-rarity--rare .wc-card-meta     { color: #60a5fa; }
+.wc-rarity--veryrare .wc-card-meta { color: #a78bfa; }
+.wc-rarity--legendary .wc-card-meta{ color: #fbbf24; }
+.wc-rarity--artifact .wc-card-meta { color: #f87171; }
+
+/* ═══ Catalog Sidebar View ═══ */
+.wc-catalog-container { padding: 10px; display: flex; flex-direction: column; height: 100%; }
+.wc-catalog-header { margin-bottom: 15px; }
+.wc-catalog-header h3 { margin: 0 0 10px 0; }
+.wc-catalog-search-wrap { width: 100%; }
+.wc-catalog-search { width: 100%; }
+.wc-catalog-grid { display: flex; flex-direction: column; gap: 10px; overflow-y: auto; flex: 1; padding-bottom: 20px; }
+.wc-catalog-empty { color: var(--text-muted); text-align: center; padding: 20px; font-style: italic; }
+
+.wc-catalog-mini-card-wrap {
+    cursor: pointer;
+    transition: transform 0.1s ease;
+}
+.wc-catalog-mini-card-wrap:hover { transform: translateX(2px); }
+.wc-catalog-mini-card-wrap .wc-card {
+    min-width: 0; width: 100%; margin: 0;
+}
+.wc-catalog-mini-card-wrap .wc-card-header-row { padding: 10px 12px 2px; }
+.wc-catalog-mini-card-wrap .wc-card-meta { padding: 0 12px 8px; }
+
+/* ═══ Preview Sidebar View ═══ */
+.wc-preview-container { padding: 10px; display: flex; flex-direction: column; height: 100%; overflow-y: auto; }
+.wc-preview-back-btn { margin-bottom: 15px; align-self: flex-start; }
+.wc-preview-card-wrap .wc-card { min-width: 0; margin: 0 auto; }
+
+/* ═══ Edit Modal ═══ */
+.wc-edit-modal { width: 600px; max-width: 90vw; }
+.wc-edit-mode-toggle { display: flex; gap: 10px; margin-bottom: 20px; }
+.wc-edit-mode-btn { padding: 4px 12px; background: var(--background-primary); border: 1px solid var(--background-modifier-border); border-radius: 4px; cursor: pointer; }
+.wc-edit-mode-btn--active { background: var(--interactive-accent); color: var(--text-on-accent); border-color: var(--interactive-accent); }
+.wc-edit-body { min-height: 300px; max-height: 60vh; overflow-y: auto; padding-right: 10px; }
+.wc-edit-yaml-area { width: 100%; font-family: var(--font-monospace); }
+.wc-edit-textarea { width: 100%; }
+
+/* ═══ Header row: title left, price right ═══ */
+.wc-card-header-row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 16px 20px 4px;
+}
+
+.wc-card-name-block {
+    flex: 1;
+    min-width: 0;
+}
+
+.wc-card-name {
+    font-family: var(--font-interface);
+    font-size: 1.45em;
+    font-weight: 700;
+    color: var(--text-normal);
+    line-height: 1.25;
+    word-wrap: break-word;
+}
+
+.wc-card-name-en {
+    font-size: 0.82em;
+    color: var(--text-muted);
+    letter-spacing: 0.03em;
+    margin-top: 2px;
+}
+
+/* ═══ Price badge ═══ */
+.wc-card-price-badge {
+    flex-shrink: 0;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.82em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+    margin-top: 4px;
+}
+
+/* Gold (ЗМ) — pale yellow */
+.wc-price--gold {
+    background: rgba(250, 204, 21, 0.15);
+    color: #ca8a04;
+    border: 1px solid rgba(250, 204, 21, 0.35);
+}
+
+/* Silver (СМ) */
+.wc-price--silver {
+    background: rgba(148, 163, 184, 0.15);
+    color: #94a3b8;
+    border: 1px solid rgba(148, 163, 184, 0.3);
+}
+
+/* Copper (ММ) — paler */
+.wc-price--copper {
+    background: rgba(194, 120, 62, 0.12);
+    color: #c2783e;
+    border: 1px solid rgba(194, 120, 62, 0.25);
+}
+
+/* Electrum (ЭМ) */
+.wc-price--electrum {
+    background: rgba(163, 163, 163, 0.15);
+    color: #a3a3a3;
+    border: 1px solid rgba(163, 163, 163, 0.3);
+}
+
+/* ═══ Meta line ═══ */
+.wc-card-meta {
+    padding: 0 20px 12px;
+    font-size: 0.85em;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+/* ═══ Decorative divider ═══ */
+.wc-card-divider {
+    display: flex;
+    align-items: center;
+    margin: 4px 20px 16px;
+    height: 12px;
+}
+
+.wc-card-divider::before,
+.wc-card-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+}
+
+.wc-card-divider::before {
+    background: linear-gradient(90deg, transparent, var(--background-modifier-border-focus));
+}
+
+.wc-card-divider::after {
+    background: linear-gradient(90deg, var(--background-modifier-border-focus), transparent);
+}
+
+/* ═══ Image — clean, no border ═══ */
+.wc-card-image {
+    padding: 0 20px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.wc-card-image p {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.wc-card-image img {
+    width: 100%;
+    max-height: 280px;
+    object-fit: cover;
+    border: none;
+    border-radius: 0;
+}
+
+/* ═══ Description — full width, fills to bottom ═══ */
+.wc-card-description {
+    position: relative;
+    margin: 0;
+    padding: 28px 20px 20px;
+    background: var(--background-primary);
+    flex: 1;
+    font-size: 0.9em;
+    color: var(--text-normal);
+    line-height: 1.5;
+}
+
+/* Overlay that looks like the upper block has rounded bottom corners */
+.wc-card-description::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 14px;
+    background: var(--background-secondary);
+    border-radius: 0 0 14px 14px;
+}
+
+.wc-card-description p {
+    margin: 0 0 12px;
+}
+
+.wc-card-description p:last-child {
+    margin-bottom: 0;
+}
+
+/* Bold + italic for feature names */
+.wc-card-description strong em,
+.wc-card-description em strong {
+    color: var(--text-accent);
+}
+
+/* Tables inside descriptions */
+.wc-card-description table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0;
+    font-size: 0.95em;
+}
+
+.wc-card-description th {
+    background: var(--background-primary-alt);
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 2px solid var(--interactive-accent);
+    font-weight: 600;
+    font-size: 0.88em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+}
+
+.wc-card-description td {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.wc-card-description tr:last-child td {
+    border-bottom: none;
+}
+
+/* ═══ Code Block Action Button ═══ */
+.wc-render-container {
+    position: relative;
+}
+.wc-block-action-container {
+    position: absolute;
+    top: 4px;
+    right: 32px;
+    z-index: 9;
+}
+.wc-block-action-btn {
+    width: 24px;
+    height: 24px;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-s);
+    opacity: 0;
+    transition: opacity 0.15s ease-in-out, background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+.wc-render-container:hover .wc-block-action-btn {
+    opacity: 1;
+}
+.wc-block-action-btn:hover {
+    color: var(--text-normal);
+    background-color: var(--background-modifier-hover);
+}
+.wc-block-action-btn--added {
+    color: var(--interactive-accent);
+}
+.wc-block-action-btn--added:hover {
+    color: var(--interactive-accent-hover);
+}
+
+/* ═══ Catalog Sidebar View ═══ */
+.wc-card-error {
+    min-width: 400px;
+    margin: var(--size-4-6) auto;
+    padding: 16px 24px;
+    color: var(--text-error);
+    font-weight: 600;
+    border: 1px solid var(--text-error);
+    border-radius: 12px;
+    text-align: center;
+}
+
+/* ═══ Inline Code Links ═══ */
+code.wc-clickable-code {
+    cursor: pointer;
+    color: var(--interactive-accent);
+    background-color: var(--background-modifier-accent);
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+code.wc-clickable-code:hover {
+    text-decoration: underline;
+    background-color: var(--background-modifier-hover);
+}
+

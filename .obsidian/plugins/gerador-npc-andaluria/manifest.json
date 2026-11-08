@@ -1,0 +1,9 @@
+{
+  "id": "gerador-npc-andaluria",
+  "name": "Gerador de NPC (Andaluria)",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Gera um NPC completo em formato de cartão e salva como nota na pasta do local escolhido.",
+  "author": "Pedro",
+  "isDesktopOnly": false
+}

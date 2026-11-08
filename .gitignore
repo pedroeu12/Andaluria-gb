@@ -1,0 +1,15 @@
+# estado da janela do Obsidian (muda toda hora)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.trash/
+
+# arquivos gerados pelo site (Quartz)
+.site/node_modules/
+.site/public/
+.site/.quartz-cache/
+
+# lixo do sistema
+.DS_Store
+Thumbs.db
+desktop.ini

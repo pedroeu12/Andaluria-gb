@@ -1,0 +1,29 @@
+/* Fantasy Content Generator: settings lists and the generator window. Uses theme variables, so it suits light and dark themes. */
+
+.fcg-details {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-m);
+    background-color: var(--background-secondary);
+    margin: 0.5em 0 1.5em;
+    padding: 0.5em;
+}
+
+.fcg-details[open] > .fcg-summary {
+    border-bottom: 1px solid var(--background-modifier-border);
+    margin-bottom: 0.5em;
+}
+
+.fcg-summary {
+    font-weight: var(--font-semibold);
+    cursor: pointer;
+    padding: 0.25em 0;
+}
+
+.fcg-hidden-input {
+    display: none;
+}
+
+.fcg-generator-select {
+    width: 100%;
+    margin-bottom: 1em;
+}
