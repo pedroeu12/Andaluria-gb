@@ -35,7 +35,8 @@ Os monstros não seguem um modelo único: indivíduos e grupos podem ter poderes
 | Monstro | O que é | O que quer | Onde | Fraqueza | Status |
 |---|---|---|---|---|---|
 | [[Criaturas das Vinhas]] | coisas de vinha e garra | ? | [[Santavio]] | ? | ativo |
-|  |  |  |  |  |  |
+| Gobstalker | o monstro preso no amuleto do Estaucio | ? | [[Castillo del Cardenal]] | ? | solto: o grupo fugiu ([[Sessão 03]]) |
+| Colônia de fungos | Sporophore e Sporelings num ninho de carcaças | espalhar esporos | bosque a leste | — | destruída ([[Sessão 03]]) |
 
 Tipos com regras próprias: [[Vampiros]] · [[Lobisomens]] · [[Reanimados]]
 

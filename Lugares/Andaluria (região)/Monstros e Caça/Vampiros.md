@@ -8,7 +8,7 @@ imagem: "https://commons.wikimedia.org/wiki/Special:FilePath/GustaveDoreParadise
 ```ficha
 ```
 
-A vampira mais poderosa de Andaluria é a [[Condesa Ysabela Delamoña IV]] — ver [[O Segredo da Condesa]].
+A vampira mais poderosa de Andaluria é a [[Condesa Ysabela Delamoña IV]] — ver [[O Segredo da Condesa]]. Acima dela, fora de Andaluria, está o [[Strade]], que recebia os rituais dela.
 
 ## A Maldição do Vampiro
 Vampiros de destaque podem transformar suas vítimas.

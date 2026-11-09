@@ -34,7 +34,7 @@ A igreja precisa de tempos sombrios. Com o povo com medo, ela vira o porto segur
 | Veyra | quase tudo. Sobre o que mantém o portal aberto: sabe que existe uma **fonte** que mantém o portal aberto, mas não o que ela é. Só seguiu os passos para reabri-lo; criar a fonte foi a parte mais difícil, e já tinha sido feita por Arcedrio. Para descobrir, precisaria ter entrado no portal — ver [[O Pacto de Porto Bello]] |
 | A Condesa | que o coração sumiu? *(a definir)* |
 | [[Miquela Shaas]] (Arquivista) | *(a definir)* |
-| O grupo | nada ainda |
+| O grupo | que o corpo do imperador, na cripta da Condesa, está sem o coração. Não sabe quem tirou nem para quê |
 
 ## Pistas possíveis
 - Os textos apócrifos na biblioteca da basílica.
@@ -50,7 +50,7 @@ A igreja precisa de tempos sombrios. Com o povo com medo, ela vira o porto segur
 - O que acontece no Festival do Solstício?
 
 ## O que o grupo já descobriu
--
+- O imperador está na cripta do [[Castillo del Cardenal]] sem o coração ([[Sessão 03]], pelo Shii Tak).
 
 ```relacionados
 ```

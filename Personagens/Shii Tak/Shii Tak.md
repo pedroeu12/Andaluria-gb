@@ -111,7 +111,7 @@ A vila tem nota própria: [[Porto Bello]]. Todos fungris. Qualquer um deles pode
 ## Notas de campanha
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
--
+- **[[Sessão 03]]:** seguiu o rastro do Estaucio até o subsolo do castelo. Viu o imperador sem coração na cripta e o Estaucio mordido na cela, e entendeu que a Condesa é vampira e é todas as Condesas. Depois entrou no plano do [[Strade]] atrás do Woogway.
 
 ## Texto original do jogador
 > Shii Tak nasceu na comunidade agroflorestal de Porto Bello. Filho de Mai Tak e Enoki Tak, um casal de agricultores, sempre esteve cercado de natureza e plantas. Encontrando inspiração na beleza natural ao seu redor, Shii Tak virou músico junto de seu primo Shii Mejj. Todas sextas, os primos se apresentavam na taverna local, para o deleite de toda a comunidade.

@@ -24,6 +24,7 @@ O armazém foi explodido na [[Sessão 02]] e tudo o que havia dentro se perdeu. 
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
 - **[[Sessão 02]]:** o [[Woogway]] saiu cedo do baile e explodiu o armazém com o próprio fogo, logo depois de se despedir da Condesa. Os componentes do ritual que estavam lá queimaram; não havia corpos. Não sobrou nada.
+- **[[Sessão 03]]:** o [[Strade]] disse ao grupo que o armazém era uma das maiores fontes do sustento dele. É a dívida do Woogway.
 
 
 ```relacionados

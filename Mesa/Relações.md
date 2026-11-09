@@ -32,6 +32,8 @@ graph TD
   Portal{{"O Portão do Inferno"}}:::segredo
   Demonio{{"O Demônio de Santavio"}}:::segredo
   Bello["Povo de Porto Bello"]:::povo
+  Strade{{"Strade, o vampiro"}}:::segredo
+  Woogway(["Woogway"]):::pc
   Veyra -->|lidera a ala dura| Igreja
   Veyra -.->|roubou o coração de Arcedrio| Condesa
   Veyra -.->|reabriu| Portal
@@ -52,6 +54,9 @@ graph TD
   Bello -.->|presos, ainda alimentam| Portal
   Portal -.->|noites longas, monstros| Demonio
   Demonio -->|caça| Grupo
+  Condesa -.->|rituais em troca da colheita| Strade
+  Strade -->|patrono, cobra a dívida| Woogway
+  Woogway -->|faz parte de| Grupo
   classDef igreja fill:#3a2a12,stroke:#c9a24a,color:#f6ebc9
   classDef nobre fill:#3d1219,stroke:#c9a24a,color:#f6ebc9
   classDef gov fill:#1d2530,stroke:#c9a24a,color:#f6ebc9
@@ -62,7 +67,7 @@ graph TD
   classDef segredo fill:#2a0f14,stroke:#8f1f2e,color:#f1c9cf
 ```
 
-[[Arcebispo Mateo Veyra]] · [[Igreja da Eminência Dourada]] · [[Condesa Ysabela Delamoña IV]] · [[Conselho dos Cinco]] · [[Andrea Nocta]] · [[Nightwatch]] · [[Julio Cantafierro]] · [[Sombral Spade]] · [[Povo Caio]] · [[Imperador Arcedrio]] · [[O Portão do Inferno]] · [[O Demônio de Santavio]] · [[Porto Bello]]
+[[Arcebispo Mateo Veyra]] · [[Igreja da Eminência Dourada]] · [[Condesa Ysabela Delamoña IV]] · [[Conselho dos Cinco]] · [[Andrea Nocta]] · [[Nightwatch]] · [[Julio Cantafierro]] · [[Sombral Spade]] · [[Povo Caio]] · [[Imperador Arcedrio]] · [[O Portão do Inferno]] · [[O Demônio de Santavio]] · [[Porto Bello]] · [[Strade]]
 
 ## A intriga da igreja
 

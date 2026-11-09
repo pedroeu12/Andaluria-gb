@@ -20,6 +20,7 @@ O botão **Nova sessão** cria a pasta e as duas notas, já numeradas, a partir 
 | [[Sessão 00 - Sessão Zero]] |  |  |  |
 | [[Sessão 01]] | [[Preparação 01]] | 2026-10-09 | O demônio enganou o grupo em Santavio e botou todo mundo pra correr. |
 | [[Sessão 02]] | [[Preparação 02]] | 2026-10-23 | O baile da Condesa: o caderno achado, o armazém em chamas e um monstro solto no salão. |
+| [[Sessão 03]] | [[Preparação 03]] | 2026-11-07 | A fuga do baile, a cripta sem coração, a glândula do Roberto e a dívida com o Strade. |
 
 ## Linha da campanha
 

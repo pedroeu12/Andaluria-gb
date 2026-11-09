@@ -27,7 +27,8 @@ tipo: pessoa
 | [[Jordana]] | fada de Vespar; viúva de um guarda |  | [[Santavio]] |
 | [[Josias]] | guarda do portão | casa da Condesa | [[Castillo del Cardenal]] |
 | [[Agente da Sombral Spade]] | simiah infiltrado como criado | [[Sombral Spade]] | [[Castillo del Cardenal]] |
-| [[Estaucio]] | viúvo; soltou um monstro no baile |  | preso no [[Castillo del Cardenal]] |
+| [[Estaucio]] | viúvo; soltou um monstro no baile (morto) |  | calabouços do [[Castillo del Cardenal]] |
+| [[Strade]] | vampiro; patrono do Woogway e da Condesa |  | [[O Plano de Strade]] |
 | [[Lenister]] | gnomo Caio, rico com flores | [[Povo Caio]] | bailes do [[Castillo del Cardenal]] |
 | [[Roberto Esbelto]] | comerciante: itens mágicos | [[Sombral Spade]] (aliado) | [[Entreposto do Telhado Vermelho]] |
 | [[Martina Troudbar]] | ferreira | [[Sombral Spade]] (aliada) | [[Entreposto do Telhado Vermelho]] |

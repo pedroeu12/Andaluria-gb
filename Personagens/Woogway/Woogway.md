@@ -17,6 +17,7 @@ imagem: "https://commons.wikimedia.org/wiki/Special:FilePath/PL_Jean_de_La_Fonta
 | **Povo** | [[Povo Caio]], há menos de 20 anos |
 | **Classe** | Warlock |
 | **Transformação** | Vampiro |
+| **Patrono** | [[Strade]] |
 | **Nível** | 2 |
 | **Na Sombral Spade** | veterano ([[Sessão 00 - Sessão Zero]]) |
 | **Ficha ao vivo** | [[Woogway - Ficha]] |
@@ -74,12 +75,13 @@ Um galapa velhíssimo que passou 150 anos tentando não morrer em Andaluria, e q
 - Como entrou para a [[Sombral Spade]]?
 - Qual era a vila e quem era o bibliotecário?
 - Com qual caravana Caio ele anda hoje?
-- Como ele virou vampiro? E com quem é o pacto de warlock?
+- Como ele virou vampiro? Foi o [[Strade]]?
 
 ## Notas de campanha
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
 - **[[Sessão 02]]:** saiu mais cedo do baile da Condesa e, com os poderes de fogo emberkin, explodiu o [[Armazém dos Vinhedos]].
+- **[[Sessão 03]]:** na volta da missão do fungo, o patrono o levou por um portal. É o [[Strade]], o mesmo vampiro dos rituais da Condesa. O armazém era comida dele, e agora o Woogway deve: tem que sequestrar a criança da Igreja ([[A Criança da Igreja]]).
 
 ```relacionados
 ```

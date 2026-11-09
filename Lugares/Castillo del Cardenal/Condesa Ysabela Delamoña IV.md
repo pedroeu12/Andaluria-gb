@@ -41,6 +41,7 @@ Desaparecimentos estranhos e vinhas alimentadas com sangue. Ninguém fala disso 
 - Sempre com uma taça na mão.
 
 ## Relação com o grupo
+O Shii Tak conhece o segredo dela. Ela não sabe disso, ou ainda não sabe.
 
 
 ## Notas de campanha
@@ -48,6 +49,7 @@ Desaparecimentos estranhos e vinhas alimentadas com sangue. Ninguém fala disso 
 
 - **[[Sessão 01]]:** o grupo bateu na porta dela e ninguém foi recebido.
 - **[[Sessão 02]]:** foi a Santavio de liteira e chamou o grupo pro baile. O Woogway se despediu dela e saiu cedo; pouco depois o armazém dela explodiu, e um monstro foi solto no salão.
+- **[[Sessão 03]]:** o baile acabou com nobres mortos e o grupo fugindo do Gobstalker. Ela matou o Estaucio na cela. O Shii Tak desceu à cripta e saiu sabendo que ela é vampira e que é a mesma em todas as Condesas. O [[Strade]] contou ao grupo que os rituais dela eram para ele.
 
 
 ```relacionados

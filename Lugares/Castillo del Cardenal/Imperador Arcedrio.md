@@ -29,7 +29,7 @@ O tirano contra quem Andaluria se levantou. Há mais de um século, apertou seu 
 ## Notas de campanha
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
--
+- **[[Sessão 03]]:** o Shii Tak viu os restos dele na cripta do castelo, sem o coração.
 
 ```relacionados
 ```

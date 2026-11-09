@@ -84,6 +84,7 @@ onde: Castillo del Cardenal
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
 - **[[Sessão 02]]:** o baile. O grupo achou o caderno da Condesa no escritório, e a sessão acabou com o Gobstalker solto no salão.
+- **[[Sessão 03]]:** o salão destruído, com nobres mortos; o grupo fugiu e o Gobstalker ficou. O Shii Tak desceu pelas masmorras até a cripta (31) e os calabouços (30): o imperador sem coração e o Estaucio morto.
 
 
 ```relacionados

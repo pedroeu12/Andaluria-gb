@@ -21,4 +21,4 @@ Estrangeiro, de Cardunthra (ver [[Visão Geral de Andaluria#Além das bordas]]).
 ## Notas de campanha
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
--
+- **[[Sessão 03]]:** recebeu a glândula de fungo e pagou: 2 punhados e um item do catálogo para cada um ([[Procura-se glândula de fungo]]).

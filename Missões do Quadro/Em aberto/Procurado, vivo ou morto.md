@@ -1,7 +1,7 @@
 ---
 tags: [missao]
 subtipo: "Missão do quadro"
-status: aberta
+status: arrancado
 perigo: 3
 resumo: "Cartaz de procurado da Igreja. A descrição bate com o Maarcio."
 ---
@@ -18,6 +18,9 @@ Cartaz de procurado, vivo ou morto. Descreve um indivíduo de pele pálida, de l
 
 ## O que é de verdade
 A descrição é a do [[Maarcio]]. A backstory dele já o coloca em conflito com a Igreja, e o cartaz é isso aparecendo. O grupo pode aceitar a missão se quiser.
+
+## Notas de campanha
+- **[[Sessão 03]]:** o grupo arrancou o cartaz do quadro. A Igreja continua procurando, e o cartaz continua colado em outros lugares.
 
 ## Para pensar
 - Se o grupo o aceitar de brincadeira, o que acontece quando alguém de fora o ler?

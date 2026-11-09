@@ -33,6 +33,7 @@ O centro do vault: cada lugar tem uma pasta em `Lugares/` com tudo o que pertenc
 | [[Rivercraft]] | vila de artesãos no litoral sul, quase toda de firbolgs |  |  |  |
 | [[Highmem]] | vila de pescadores na praia, a sudeste; isolada e conservadora |  | [[Igreja da Eminência Dourada]] |  |
 | [[Visão Geral de Andaluria\|Andaluria (região)]] | a região como um todo |  | [[Nobreza e Mercadores]] | [[Rumores e Ganchos]] · [[Monstros em Andaluria]] |
+| [[O Plano de Strade]] | o plano à parte onde vive o vampiro Strade | [[Strade]] |  | [[A Criança da Igreja]] |
 | [[Porto Bello]] | vila natal de [[Shii Tak]]; comunidade agroflorestal de fungris; hoje no fundo do Lago Silente (segredo) | [[Mai Tak]] · [[Enoki Tak]] · [[Mattsu Tak]] · [[Shii Mejj]] · [[Eryn Gui]] · [[Champ Gnom]] · [[Parr Yss]] · [[Porr Cyni]] · [[Mell]] · [[Korrdy Cepps]] · [[Penni Cylina]] · [[Kremm Yni]] · [[Chantt Errelle]] · [[Ferr Mento]] |  | [[O Pacto de Porto Bello]] |
 |  |  |  |  |  |
 

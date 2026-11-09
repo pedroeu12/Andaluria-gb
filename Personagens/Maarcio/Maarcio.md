@@ -95,7 +95,7 @@ Corvo negro, com os olhos marcados pelo mesmo padrão dos de Maarcio. Atento, de
 ## Notas de campanha
 *(o que mudou na mesa — edite aqui depois das sessões)*
 
--
+- **[[Sessão 03]]:** saiu do baile pela porta da frente. Na volta da missão do fungo, entrou no plano do [[Strade]] atrás do Woogway.
 
 ## Respostas originais do jogador
 > **A terrible creature hurt your community, and you've vowed to hunt them down. What are they, and what unique trail or sign do they leave behind?**

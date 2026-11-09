@@ -33,7 +33,9 @@ A Condesa é uma das poucas coisas que a igreja não controla. Faz o que a igrej
 - O que ela quer do grupo?
 
 ## O que o grupo já descobriu
--
+- O caderno com as contas da colheita e os rituais ([[Sessão 02]]).
+- Ela é vampira, e todas as Condesas anteriores eram ela. O Shii Tak descobriu nos calabouços, pelo corpo mordido do Estaucio ([[Sessão 03]]).
+- Os rituais eram para o [[Strade]], em troca de boas colheitas ([[Sessão 03]]).
 
 ```relacionados
 ```

@@ -1,7 +1,7 @@
 ---
 tags: [missao]
 subtipo: "Missão do quadro"
-status: aberta
+status: concluída
 perigo: 2
 resumo: "O Roberto precisa de uma glândula de fungo, urgente. O que ele não conta é que só quer ficar chapado."
 ---
@@ -41,6 +41,9 @@ Cada jogador escolhe um, todos do SRD:
 - **Calming Pendant:** ao marcar o último Stress, rola d6, e com 5 ou mais não marca.
 - **Skeleton Key:** vantagem na Finesse Roll para abrir fechaduras.
 - **Glider:** ao cair, marca 1 Stress e pousa em segurança.
+
+## Como foi
+Concluída na [[Sessão 03]]. O grupo venceu a colônia no bosque, numa luta difícil, e entregou a glândula ao Roberto.
 
 ## Ligação com o plot
 O Kremm é o único de [[Porto Bello]] que ficou fora do portal e cortou a ligação com a rede dos fungris por conta própria. Esta missão é uma das formas de o grupo chegar até ele.
