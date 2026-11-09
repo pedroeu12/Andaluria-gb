@@ -107,7 +107,7 @@ Base: **Dragon's Lair** (*Hope & Fear*, p. 108, Tier 3 Exploration, dificuldade 
 *A dificuldade e o tier são os do Dragon's Lair. O grupo é Tier 2.*
 
 ### Estátuas Vivas
-Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para escolher. Opcional: vulnerável a dano físico.
+Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para escolher. O Weak Structure é opcional: é a mesma feature do Construct, o clank guardião dos [[Vinhedos da Condesa|vinhedos]].
 
 > [!abstract] Living Statue (minion)
 > ***Tier 2 Minion.*** *Someone the Basilisk turned to stone, walking again.*
@@ -122,6 +122,8 @@ Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para
 > ***Minion (6) - Passive:*** The Statue is defeated when it takes any damage. For every 6 damage a PC deals to the Statue, defeat an additional Minion within range the attack would succeed against.
 >
 > ***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Living Statues within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 6 physical damage each. Combine this damage.
+>
+> ***Weak Structure - Passive:*** *(opcional)* When the Statue marks HP from physical damage, it marks an additional HP.
 
 > [!abstract] Living Statues (horde)
 > ***Tier 2 Horde.*** *A crowd of people the Basilisk turned to stone, walking again.*
@@ -134,6 +136,8 @@ Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para
 > **FEATURES**
 >
 > ***Horde (2d4+1) - Passive:*** When the Statues have marked half or more of their HP, their standard attack deals 2d4+1 physical damage instead.
+>
+> ***Weak Structure - Passive:*** *(opcional)* When the Statues mark HP from physical damage, they mark an additional HP.
 
 *Os números da horda são a média das hordas de Tier 2 do livro básico (Archer Squadron, Demonic Hound Pack e Electric Eels), e batem com os do Electric Eels. O Minion (6) e o Group Attack são os mesmos dos minions de Tier 2.*
 
