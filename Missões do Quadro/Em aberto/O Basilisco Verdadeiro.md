@@ -84,7 +84,7 @@ Base: **Dragon's Lair** (*Hope & Fear*, p. 108, Tier 3 Exploration, dificuldade 
 - **The Dragon Wakes** muda: o basilisco não está dormindo. As cavernas são um grande labirinto cheio de corpos petrificados, e o bicho anda por ali. Se o grupo chamar atenção demais, ele chega onde eles estão.
 - **Treasure Hoard** fica. O covil tem vários tesouros, e principalmente consumíveis. Talvez algumas armas um tier acima, se não quebrar o equilíbrio. E, no fundo, o coração da Condesa.
 - **Volcanic Activity** sai.
-- **Watchdogs** vira **Estátuas Vivas**: minions ou horda *(a decidir)*, que o basilisco ou o próprio covil desperta para cima do grupo.
+- **Watchdogs** vira **Estátuas Vivas**: minions ou horda *(a decidir, inclinando para horda, que não obriga a contar quantas acordaram)*, que o basilisco ou o próprio covil desperta para cima do grupo.
 
 > [!abstract] The Basilisk's Lair
 > ***Tier 3 · Exploration.*** *A maze of caves and tunnels under the Countess's castle, crowded with people turned to stone, where something ancient guards her heart.*
@@ -105,6 +105,37 @@ Base: **Dragon's Lair** (*Hope & Fear*, p. 108, Tier 3 Exploration, dificuldade 
 > *Who were these people before? What woke them?*
 
 *A dificuldade e o tier são os do Dragon's Lair. O grupo é Tier 2.*
+
+### Estátuas Vivas
+Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para escolher. Opcional: vulnerável a dano físico.
+
+> [!abstract] Living Statue (minion)
+> ***Tier 2 Minion.*** *Someone the Basilisk turned to stone, walking again.*
+>
+> - **Motives & Tactics:** Advance, surround, strike
+> - **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
+> - **ATK:** +1 | **Stone Fists:** Melee | 6 phy
+> - **Experience:** Hard as Stone *(valor a definir)*
+>
+> **FEATURES**
+>
+> ***Minion (6) - Passive:*** The Statue is defeated when it takes any damage. For every 6 damage a PC deals to the Statue, defeat an additional Minion within range the attack would succeed against.
+>
+> ***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Living Statues within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 6 physical damage each. Combine this damage.
+
+> [!abstract] Living Statues (horde)
+> ***Tier 2 Horde.*** *A crowd of people the Basilisk turned to stone, walking again.*
+>
+> - **Motives & Tactics:** Advance, surround, strike
+> - **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3
+> - **ATK:** +0 | **Stone Fists:** Melee | 2d6+4 phy
+> - **Experience:** Hard as Stone *(valor a definir)*
+>
+> **FEATURES**
+>
+> ***Horde (2d4+1) - Passive:*** When the Statues have marked half or more of their HP, their standard attack deals 2d4+1 physical damage instead.
+
+*Os números da horda são a média das hordas de Tier 2 do livro básico (Archer Squadron, Demonic Hound Pack e Electric Eels), e batem com os do Electric Eels. O Minion (6) e o Group Attack são os mesmos dos minions de Tier 2.*
 
 Voltar para [[Missões do Quadro]].
 
