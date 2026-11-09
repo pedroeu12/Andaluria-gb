@@ -36,7 +36,7 @@ A [[Basílica do Sol Dourado|Basílica]] é uma igreja colossal no meio de uma c
 - **Capturados:** quem chega a 0 HP com o dano da fuga é capturado. O que a Igreja faz com quem tentou levar a criança?
 
 ## A proposta do Woogway
-O Woogway já falou com o patrono: e se ele tomar o lugar da Condesa e continuar o trabalho dela? Isso abre a dualidade dele. Seria alguém que protege a população e faz um trabalho de bem maior, mas continua sendo um bruxo preso a um patrono maligno.
+O Woogway já falou com o patrono: e se ele tomar o lugar da Condesa e continuar o trabalho dela? O Strade achou interessante. Isso abre a dualidade dele. Seria alguém que protege a população e faz um trabalho de bem maior, mas continua sendo um bruxo preso a um patrono maligno.
 
 ## Como usar
 O patrono aparece para o Woogway no momento que eu achar melhor, durante a sessão. A **barganha** eu descubro na hora, o que ele faz quando o Woogway recusa ou negocia. Antes da sessão, vale definir só o que ele não aceita negociar.

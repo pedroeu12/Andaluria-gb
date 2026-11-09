@@ -28,7 +28,7 @@ Planta completa, com os três andares: [[Planta do Castillo]].
 - Uma porta dá num corredor com três portas: um depósito, um quartinho e o escritório, cheio de papéis e cadernos. É lá que fica o livro onde a Condesa registra tudo, com anotações que mostram que a colheita dela não tem lógica, junto com descrições de rituais e outros papéis do tipo. Um guarda fica na porta do corredor.
 
 > [!danger] Segredo do Mestre
-> No subsolo há uma sala-cofre, e nela está o coração da [[Condesa Ysabela Delamoña IV|Condesa]].
+> O coração da [[Condesa Ysabela Delamoña IV|Condesa]] fica no fundo das cavernas que passam por baixo do castelo, guardado pelo basilisco verdadeiro que ela selou. A entrada é um desfiladeiro atrás da montanha. Ver [[O Basilisco Verdadeiro]].
 
 ## Environment
 

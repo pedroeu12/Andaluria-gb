@@ -73,7 +73,7 @@ Corvo negro, com os olhos marcados pelo mesmo padrão dos de Maarcio. Atento, de
 
 ## Perguntas em aberto
 - **Como se chama a vila e o clã?** Onde ficam? Ainda existem?
-- **O que era a criatura?** A ficha pergunta que rastro ou sinal ela deixa, e isso ficou sem resposta.
+- ~~O que era a criatura?~~ O [[O Basilisco Verdadeiro|basilisco verdadeiro]], o mesmo que hoje a Condesa mantém selado nas cavernas atrás do castelo. O sinal que deixa: pessoas petrificadas. *(segredo)*
 - **Para quem era a missão de reconhecimento** no monastério? Já era a [[Sombral Spade]]?
 - **Quem ele matou?** A ordem sabe quem ele é? Está sendo procurado?
 - **Que ordem religiosa é essa?** (A cidade sagrada é a da [[Basílica do Sol Dourado]].)

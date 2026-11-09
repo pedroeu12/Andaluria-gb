@@ -37,6 +37,7 @@ Os monstros não seguem um modelo único: indivíduos e grupos podem ter poderes
 | [[Criaturas das Vinhas]] | coisas de vinha e garra | ? | [[Santavio]] | ? | ativo |
 | Gobstalker | o monstro preso no amuleto do Estaucio | ? | [[Castillo del Cardenal]] | ? | solto: o grupo fugiu ([[Sessão 03]]) |
 | Colônia de fungos | Sporophore e Sporelings num ninho de carcaças | espalhar esporos | bosque a leste | — | destruída ([[Sessão 03]]) |
+| [[O Basilisco Verdadeiro]] | o basilisco antigo, de um par de patas só | proteger o coração da Condesa, que o selou | cavernas atrás do [[Castillo del Cardenal]] | espelho; urina de doninha | ativo |
 
 Tipos com regras próprias: [[Vampiros]] · [[Lobisomens]] · [[Reanimados]]
 

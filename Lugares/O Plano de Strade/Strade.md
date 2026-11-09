@@ -26,6 +26,7 @@ Comer. O [[Armazém dos Vinhedos]] era uma das maiores fontes do sustento dele, 
 - Os rituais da Condesa eram para ele, em troca da colheita.
 - A queima do armazém o deixou sem uma grande fonte de alimento.
 - O Woogway deve a ele a criança.
+- Achou interessante a ideia do Woogway de tomar o lugar da Condesa e continuar o trabalho dela.
 
 ## Perguntas em aberto
 - Como é o plano dele, do jeito que o grupo viu?
@@ -33,7 +34,6 @@ Comer. O [[Armazém dos Vinhedos]] era uma das maiores fontes do sustento dele, 
 - Qual é a esfera de influência dele como patrono?
 - A Condesa ainda fala com ele? Ela sabe que o Woogway também é dele?
 - O que o Woogway ganha se pagar a dívida?
-- O Woogway sugeriu tomar o lugar da Condesa e continuar o trabalho dela. O que o Strade responde?
 - O que ele pensa do [[Arcebispo Mateo Veyra|Veyra]]? Os dois ganham com as noites longas.
 
 ## Notas de campanha

@@ -19,7 +19,7 @@ Como os monstros funcionam em Andaluria: [[Monstros em Andaluria]]. Equipamento 
 | [[Cães Demoníacos]] | matilha do demônio (Demonic Hound Pack) | [[Santavio]] | ? | ativos |
 | [[Doppelhounds da Estrada]] | canídeos com duplicata ilusória (Doppelhound) | estradas, à noite | — | reserva |
 | [[Criaturas das Vinhas]] | coisas de vinha e garra | [[Santavio]] · [[Vinhedos da Condesa]] | ? | ativo |
-| [[Vampiros]] | regras e maldição | [[Castillo del Cardenal]] (a Condesa) | a Condesa: o coração, numa sala-cofre no subsolo | — |
+| [[Vampiros]] | regras e maldição | [[Castillo del Cardenal]] (a Condesa) | a Condesa: o coração, nas cavernas do basilisco atrás do castelo | — |
 | [[Lobisomens]] | regras e maldição | sem lugar fixo ([[Julio Cantafierro]]) | contida por poção Caio | — |
 | [[Reanimados]] | mortos trazidos de volta | [[Plaza del Sol]] (laboratório sob a praça); arredores de [[Santavio]] depois do banho de sangue | — | ativos em Santavio |
 | [[Mortos de Santavio]] | zumbis do banho de sangue (Rotted, Shambling, Brawny) | estrada entre [[Santavio]] e o [[Castillo del Cardenal]] | fogo ou cabeça destruída | ativos |

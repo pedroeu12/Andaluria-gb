@@ -57,4 +57,4 @@ A planta do [[Castillo del Cardenal]]. Mostra os segredos, então é só pro mes
 - **30 Calabouços.** Pra onde mandam o Estaucio.
 - **31 Cripta imperial.** Os restos de Arcedrio. Foi daqui que o Veyra roubou o coração dele.
 - **32 Passagem escondida.** Atrás de uma parede da cripta.
-- **33 Sala-cofre.** O coração da Condesa. Destruído, ela morre de vez.
+- **33 Sala-cofre.** O coração da Condesa não fica mais aqui: está nas cavernas do basilisco ([[O Basilisco Verdadeiro]]).

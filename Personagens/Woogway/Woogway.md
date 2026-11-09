@@ -82,7 +82,7 @@ Um galapa velhíssimo que passou 150 anos tentando não morrer em Andaluria, e q
 
 - **[[Sessão 02]]:** saiu mais cedo do baile da Condesa e, com os poderes de fogo emberkin, explodiu o [[Armazém dos Vinhedos]].
 - **[[Sessão 03]]:** na volta da missão do fungo, o patrono o levou por um portal. É o [[Strade]], o mesmo vampiro dos rituais da Condesa. O armazém era comida dele, e agora o Woogway deve: tem que sequestrar a criança da Igreja ([[A Criança da Igreja]]).
-- **Proposta ao patrono:** o Woogway sugeriu ao Strade tomar o lugar da Condesa e continuar o trabalho dela.
+- **Proposta ao patrono:** o Woogway sugeriu ao Strade tomar o lugar da Condesa e continuar o trabalho dela, e o Strade achou interessante.
 
 ```relacionados
 ```

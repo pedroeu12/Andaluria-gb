@@ -30,7 +30,7 @@ Desaparecimentos estranhos e vinhas alimentadas com sangue. Ninguém fala disso 
 > [!danger] Segredo do Mestre
 > Ela é uma **vampira** que opera há séculos sob o disfarce de uma linhagem ininterrupta de sucessoras — suas "filhas" são só máscaras para a mesma imortal. Foi ela mesma quem armou os rebeldes. Ver [[O Segredo da Condesa]].
 >
-> **Ficha:** Vampire Lord (*Hope & Fear*, Tier 3 Solo). **O coração** (Midnight Heart) fica numa sala-cofre no subsolo do castelo: destruído, ela morre; sem isso, revive. Não tem relação com o coração de [[Imperador Arcedrio|Arcedrio]].
+> **Ficha:** Vampire Lord (*Hope & Fear*, Tier 3 Solo). **O coração** (Midnight Heart) fica no fundo das cavernas atrás do castelo, guardado pelo basilisco verdadeiro, que ela selou e que obedece a ela ([[O Basilisco Verdadeiro]]): destruído, ela morre; sem isso, revive. Não tem relação com o coração de [[Imperador Arcedrio|Arcedrio]].
 >
 > Percebe na hora que o [[Woogway]] é vampiro, e não diz nada.
 
