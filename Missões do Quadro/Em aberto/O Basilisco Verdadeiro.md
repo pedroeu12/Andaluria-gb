@@ -19,6 +19,8 @@ resumo: "Missão oficial da Spade: caçar o basilisco verdadeiro, que a Condesa 
 
 **O que quer.** Proteger o coração da [[Condesa Ysabela Delamoña IV|Condesa]]. Ela o selou com magia, e ele obedece, como o basilisco do Harry Potter guardando a relíquia do Tom Riddle. Antes de ser preso era livre e mais sádico, e se alimentava à vontade. Ainda é, só que agora não manda em si. Foi ele que, anos atrás, acabou com a família do [[Maarcio]].
 
+Mesmo selado, ele ainda precisa comer, então de vez em quando sai e circula pelas redondezas. Já houve casos menores: costuma sobrar uma estátua à mostra, e o resto some, porque ele come.
+
 **Onde achar.** Atrás da montanha do castelo há um desfiladeiro grande, e nele a entrada de uma caverna. É ali que ele vive. Os túneis e cavernas vão até a base do castelo.
 
 **Como derrotar.** Fica para a criatividade dos jogadores. Luta direta vai ser muito difícil: duas falhas e o personagem vira pedra. Eles já aprenderam nos últimos encontros que não dá para chegar de qualquer jeito. A mitologia dá dois caminhos:
@@ -42,10 +44,13 @@ O grupo pode entrar já sabendo, ou só ir procurar. Jeitos de saber:
 ## O Maarcio
 É a mesma criatura que atacou a vila dele. O sinal que ela deixa: pessoas petrificadas.
 
+## Como a missão chega
+O circo viajante é o maior ataque até agora. Desta vez ficaram muitas estátuas à mostra, e, acima de tudo, saiu um sobrevivente: o domador das doninhas dançarinas. Pode ser o primeiro desde o ataque à vila do Maarcio, ou não; não precisa decidir. Ele conta o que viu, a denúncia chega à Spade, e a Spade passa para o grupo.
+
 ## Pistas
 *(ainda pensando nelas)*
 
-- **O sobrevivente com urina de doninha.** Um grupo atacado e petrificado, com um só vivo. Pode ser a chegada da missão, e foi assim que ela chegou à Spade. Ideia: um circo viajante, e quem sobreviveu é o domador das doninhas dançarinas. Ele conta que a criatura só olhou para ele, talvez sentiu o cheiro, e foi embora.
+- **O sobrevivente com urina de doninha.** O domador conta que a criatura só olhou para ele, talvez sentiu o cheiro, e foi embora.
 - Uma dica do espelho *(a definir)*.
 
 ## Ficha
