@@ -14,7 +14,7 @@ imagem: "Anexos/lugares/basilica-do-sol-dourado.jpg"
 A enorme igreja de telhados dourados que se ergue sobre uma elevação, com uma grande rosácea em forma de sol na fachada — o símbolo do Divinarca. É a sede da Igreja em Andaluria e o púlpito de onde Veyra prega sua nova ortodoxia.
 
 ## A cidade sagrada
-Em volta da Basílica cresceu uma grande cidade sagrada: praças enormes, avenidas largas e torres que parecem observar cada rua. Tudo nela converge para a igreja, e quase não há onde passar sem ser visto. *(O mapa só desenha a Basílica. Nome da cidade a definir.)*
+Em volta da Basílica cresceu uma grande cidade sagrada: praças enormes, avenidas largas e torres que parecem observar cada rua. Tudo nela converge para a igreja, e quase não há onde passar sem ser visto. A cidade é controlada ao extremo: toque de recolher, gente que anda quase robotizada, todo mundo sempre observado pela Igreja. É estranho de ver. *(O mapa só desenha a Basílica. Nome da cidade a definir.)*
 
 É o lugar aonde [[Maarcio]] se recusa a voltar.
 
