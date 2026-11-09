@@ -37,7 +37,7 @@ Na sala do artefato há outros itens, gerados aleatoriamente, que também podem 
 ## Consequências
 *(a definir)*
 - **Quem aparece no alarme:** guardas da [[Nightwatch]]. O Sound the Alarm pede adversários Tier 2, e os guardas do livro básico (Bladed Guard, Archer Guard, Head Guard) são Tier 1.
-- **Capturados:** quem chega a 0 HP na fuga ou na luta do alarme é capturado. O que acontece com quem é preso no palácio do Conselho?
+- **Capturados:** quem chega a 0 HP com o dano da fuga é capturado. O que acontece com quem é preso no palácio do Conselho?
 
 ## Loot
 Use as tabelas de itens e de consumíveis do *Hope & Fear* para a sala do artefato e para a recompensa do Ormund.
