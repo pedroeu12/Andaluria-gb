@@ -57,19 +57,19 @@ O circo viajante é o maior ataque até agora. Desta vez ficaram muitas estátua
 
 O Basilisk do livro (*Hope & Fear*, p. 70, Tier 2 Standard), virado Solo:
 - **HP** de 4 para 7.
-- **Dificuldade** de 14 para 15 ou 16 *(a decidir)*.
-- **Relentless**, como Solo: 2 ou 3 vezes por rodada *(a decidir)*. Cuidado com o Petrify, que é muito forte: ele não pode petrificar todo mundo numa rodada só.
+- **Dificuldade** de 14 para 16.
+- **Relentless (3)**, como Solo.
 
 > [!abstract] True Basilisk
 > ***Tier 2 Solo.*** *An ancient serpent of a basilisk, far larger than the common kind, with a single pair of legs near its head and a petrifying gaze.*
 >
 > - **Motives & Tactics:** Move slow and steady, savor petrified prey, turn everyone to stone, watch and wait
-> - **Difficulty:** 15 or 16 | **Thresholds:** 8/19 | **HP:** 7 | **Stress:** 4
+> - **Difficulty:** 16 | **Thresholds:** 8/19 | **HP:** 7 | **Stress:** 4
 > - **ATK:** +1 | **Jaws & Claws:** Melee | 2d6+4 phy
 >
 > **FEATURES**
 >
-> ***Relentless (2 or 3) - Passive:*** The Basilisk can be spotlighted up to that many times per GM turn. Spend Fear as usual to spotlight it.
+> ***Relentless (3) - Passive:*** The Basilisk can be spotlighted up to three times per GM turn. Spend Fear as usual to spotlight it.
 >
 > ***Petrify - Action:*** Spend a Fear to force a PC within Far range to make an Instinct Reaction Roll. On a success, the target marks a Stress. On a failure, the target becomes *Stiff*. If they're already *Stiff*, they become *Petrified* instead. While *Stiff*, the PC marks a Stress each time they act, until they take a rest or the Basilisk is defeated. While *Petrified*, the PC can't act. The *Petrified* condition can be cleared only by applying Basilisk saliva.
 >
@@ -84,7 +84,7 @@ Base: **Dragon's Lair** (*Hope & Fear*, p. 108, Tier 3 Exploration, dificuldade 
 - **The Dragon Wakes** muda: o basilisco não está dormindo. As cavernas são um grande labirinto cheio de corpos petrificados, e o bicho anda por ali. Se o grupo chamar atenção demais, ele chega onde eles estão.
 - **Treasure Hoard** fica. O covil tem vários tesouros, e principalmente consumíveis. Talvez algumas armas um tier acima, se não quebrar o equilíbrio. E, no fundo, o coração da Condesa.
 - **Volcanic Activity** sai.
-- **Watchdogs** vira **Estátuas Vivas**: minions ou horda *(a decidir, inclinando para horda, que não obriga a contar quantas acordaram)*, que o basilisco ou o próprio covil desperta para cima do grupo.
+- **Watchdogs** vira **Estátuas Vivas**: uma horda, que o basilisco ou o próprio covil desperta para cima do grupo.
 
 > [!abstract] The Basilisk's Lair
 > ***Tier 3 · Exploration.*** *A maze of caves and tunnels under the Countess's castle, crowded with people turned to stone, where something ancient guards her heart.*
@@ -107,31 +107,15 @@ Base: **Dragon's Lair** (*Hope & Fear*, p. 108, Tier 3 Exploration, dificuldade 
 *A dificuldade e o tier são os do Dragon's Lair. O grupo é Tier 2.*
 
 ### Estátuas Vivas
-Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para escolher. O Weak Structure é opcional: é a mesma feature do Construct, o clank guardião dos [[Vinhedos da Condesa|vinhedos]].
+Só gente de pedra que anda e bate, sem poder especial. Horda, para não ter que contar quantas acordaram. O Weak Structure é opcional: é a mesma feature do Construct, o clank guardião dos [[Vinhedos da Condesa|vinhedos]].
 
-> [!abstract] Living Statue (minion)
-> ***Tier 2 Minion.*** *Someone the Basilisk turned to stone, walking again.*
->
-> - **Motives & Tactics:** Advance, surround, strike
-> - **Difficulty:** 14 | **Thresholds:** None | **HP:** 1 | **Stress:** 1
-> - **ATK:** +1 | **Stone Fists:** Melee | 6 phy
-> - **Experience:** Hard as Stone *(valor a definir)*
->
-> **FEATURES**
->
-> ***Minion (6) - Passive:*** The Statue is defeated when it takes any damage. For every 6 damage a PC deals to the Statue, defeat an additional Minion within range the attack would succeed against.
->
-> ***Group Attack - Action:*** Spend a Fear to choose a target and spotlight all Living Statues within Close range of them. Those Minions move into Melee range of the target and make one shared attack roll. On a success, they deal 6 physical damage each. Combine this damage.
->
-> ***Weak Structure - Passive:*** *(opcional)* When the Statue marks HP from physical damage, it marks an additional HP.
-
-> [!abstract] Living Statues (horde)
+> [!abstract] Living Statues
 > ***Tier 2 Horde.*** *A crowd of people the Basilisk turned to stone, walking again.*
 >
 > - **Motives & Tactics:** Advance, surround, strike
 > - **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 5 | **Stress:** 3
 > - **ATK:** +0 | **Stone Fists:** Melee | 2d6+4 phy
-> - **Experience:** Hard as Stone *(valor a definir)*
+> - **Experience:** Hard as Stone +2
 >
 > **FEATURES**
 >
@@ -139,7 +123,7 @@ Só uma pessoa de pedra que anda e bate, sem poder especial. Duas versões, para
 >
 > ***Weak Structure - Passive:*** *(opcional)* When the Statues mark HP from physical damage, they mark an additional HP.
 
-*Os números da horda são a média das hordas de Tier 2 do livro básico (Archer Squadron, Demonic Hound Pack e Electric Eels), e batem com os do Electric Eels. O Minion (6) e o Group Attack são os mesmos dos minions de Tier 2.*
+*Números da média das hordas de Tier 2 do livro básico (Archer Squadron, Demonic Hound Pack e Electric Eels), que batem com os do Electric Eels.*
 
 Voltar para [[Missões do Quadro]].
 
