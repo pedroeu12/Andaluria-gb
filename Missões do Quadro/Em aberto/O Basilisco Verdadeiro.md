@@ -17,9 +17,11 @@ resumo: "Missão oficial da Spade: caçar o basilisco verdadeiro, que a Condesa 
 
 **O que é.** O basilisco verdadeiro. Como a coral verdadeira e as corais falsas: os basiliscos que se veem por aí são formas inferiores, quase um mimetismo, e o verdadeiro é uma criatura bem mais poderosa. Tem um par de patas só, perto da cabeça, e o corpo é muito maior que o de um basilisco comum. É mais réptil e menos ave. Uma espécie mais antiga, de linha claramente pré-histórica, um bicho mitológico. Está para os basiliscos comuns como o megalodon está para os tubarões.
 
-**O que quer.** Proteger o coração da [[Condesa Ysabela Delamoña IV|Condesa]]. Ela o selou com magia, e ele obedece, como o basilisco do Harry Potter guardando a relíquia do Tom Riddle. Antes de ser preso era livre e mais sádico, e se alimentava à vontade. Ainda é, só que agora não manda em si. Foi ele que, anos atrás, acabou com a família do [[Maarcio]].
+**O que quer.** Proteger o coração da [[Condesa Ysabela Delamoña IV|Condesa]]. Ela o selou com magia: ele usa uma coroa mágica estranha, o artefato que o submete a ela. E ele obedece, como o basilisco do Harry Potter guardando a relíquia do Tom Riddle. Antes de ser preso era livre e mais sádico, e se alimentava à vontade. Ainda é, só que agora não manda em si. Foi ele que, anos atrás, acabou com a família do [[Maarcio]].
 
 Mesmo selado, ele ainda precisa comer, então de vez em quando sai e circula pelas redondezas. Já houve casos menores: costuma sobrar uma estátua à mostra, e o resto some, porque ele come.
+
+Não tem como o grupo descobrir o que ele quer antes de matá-lo.
 
 **Onde achar.** Atrás da montanha do castelo há um desfiladeiro grande, e nele a entrada de uma caverna. É ali que ele vive. Os túneis e cavernas vão até a base do castelo.
 
@@ -67,11 +69,11 @@ Se eles pensarem em algo legal, a criatividade deles é o limite.
 ## Pistas
 *(ainda pensando nelas)*
 
-- **O sobrevivente com urina de doninha.** O domador conta que a criatura só olhou para ele, talvez sentiu o cheiro, e foi embora.
-- **O morto e o espelho.** A criatura passou por um vilarejo pequeno, e lá tem alguém caído, esticado em direção a um espelho, como se tivesse morrido tentando alcançá-lo.
-- **A direção.** O aldeão que chega correndo do norte, da vila atacada antes.
-- **A lenda.** A Zaara conta que ele era guardião do antigo imperador.
-- **Os barulhos.** O Cesar ouve coisas estranhas vindas das profundezas das cavernas.
+- **As estátuas** *(o que é)*. Só a existência delas já responde: o Maarcio já viu isso antes.
+- **O caminho** *(onde achar)*. O rastro que ele fez, do norte descendo até o circo, aponta para as cavernas do castelo. O aldeão que chega correndo do norte dá a direção.
+- **O sobrevivente com urina de doninha** *(como derrotar)*. O domador conta que a criatura só olhou para ele, talvez sentiu o cheiro, e foi embora.
+- **O morto e o espelho** *(como derrotar)*. A criatura passou por um vilarejo pequeno, e lá tem alguém caído, esticado em direção a um espelho, como se tivesse morrido tentando alcançá-lo.
+- **A coroa** *(foi dominado)*. Ele usa uma coroa mágica estranha: é o artefato que o submete à Condesa.
 
 ## Ficha
 
@@ -81,7 +83,7 @@ O Basilisk do livro (*Hope & Fear*, p. 70, Tier 2 Standard), virado Solo:
 - **Relentless (3)**, como Solo.
 
 > [!abstract] True Basilisk
-> ***Tier 2 Solo.*** *An ancient serpent of a basilisk, far larger than the common kind, with a single pair of legs near its head and a petrifying gaze.*
+> ***Tier 2 Solo.*** *An ancient serpent of a basilisk, far larger than the common kind, with a single pair of legs near its head, a strange magic crown, and a petrifying gaze.*
 >
 > - **Motives & Tactics:** Move slow and steady, savor petrified prey, turn everyone to stone, watch and wait
 > - **Difficulty:** 16 | **Thresholds:** 8/19 | **HP:** 7 | **Stress:** 4
