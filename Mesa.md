@@ -21,7 +21,7 @@ indices: true
 ## Consulta
 
 ```cartoes
-lista: [Regras, Viagem, Relações, Ganchos Pendentes, Pendências do Mestre]
+lista: [Regras, Viagem, Relações, Ganchos Pendentes]
 estilo: secoes
 indices: true
 ```
