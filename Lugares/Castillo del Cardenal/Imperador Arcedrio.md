@@ -23,6 +23,7 @@ O tirano contra quem Andaluria se levantou. Há mais de um século, apertou seu 
 > - Seu poder vinha de [[O Portão do Inferno]], que foi selado com sua morte.
 > - Para abrir o portal, sequestrou e escravizou os fungris de [[Porto Bello]] e usou o sangue roxo deles como combustível do ritual — ver [[O Pacto de Porto Bello]].
 > - Seu **coração enegrecido** foi roubado pelo [[Arcebispo Mateo Veyra]] e usado para reabrir o portal.
+> - Tinha um basilisco verdadeiro como guardião. Hoje ele guarda o coração da Condesa — ver [[O Basilisco Verdadeiro]].
 > - Comunidades livres ouvem rumores de que alguém influente trabalha nos bastidores para restabelecer o império e tomar a coroa.
 
 

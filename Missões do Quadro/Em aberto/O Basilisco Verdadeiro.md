@@ -29,7 +29,9 @@ Mesmo selado, ele ainda precisa comer, então de vez em quando sai e circula pel
 
 Um dos jogadores conhece bem mitologia e pode trazer isso sozinho, mas vale deixar alguma dica do espelho.
 
-**O que mais preocupa.**
+Matar sem a fraqueza é muito improvável: ele está muito forte, e o covil deixa tudo ainda mais complicado.
+
+**O que mais preocupa.** Todo mundo está em perigo. Com a Condesa se isolando no castelo, a criatura está mais livre e mais irritada, e o [[Strade]] também tem influência sobre ela.
 - O coração da Condesa, se o grupo souber que ele guarda.
 - A criatura em si: muito perigosa, muito forte, transformando gente em pedra.
 - As pessoas petrificadas, que podem acabar virando perigo também.
@@ -47,11 +49,29 @@ O grupo pode entrar já sabendo, ou só ir procurar. Jeitos de saber:
 ## Como a missão chega
 O circo viajante é o maior ataque até agora. Desta vez ficaram muitas estátuas à mostra, e, acima de tudo, saiu um sobrevivente: o domador das doninhas dançarinas. Pode ser o primeiro desde o ataque à vila do Maarcio, ou não; não precisa decidir. Ele conta o que viu, a denúncia chega à Spade, e a Spade passa para o grupo.
 
+No circo, os caminhos que se abrem:
+- **Um aldeão chega correndo do norte**, fugindo da vila que foi atacada antes. Isso dá uma direção.
+- **As doninhas fugiram** para um pântano perto dali. O domador oferece um punhado para quem trouxer de volta.
+- **O domador fala da Zaara**, que talvez saiba o que é a criatura. Ela mora a nordeste do circo, numa casa isolada no pé de um morrinho.
+
+## Investigação
+- **A Zaara** é a especialista. Não existe registro nenhum, só lendas. A última vez que viram a criatura foi na era do [[Imperador Arcedrio|antigo imperador]], e ela era uma espécie de guardião dele. Pelo que o grupo já sabe, isso pode indicar que agora está com a Condesa.
+- **O [[Agente da Sombral Spade|Cesar]]** sabe de barulhos estranhos vindos das profundezas das cavernas.
+
+## Escalada
+O basilisco sai e aparece, mas não luta: caça e vai embora, de volta para a proteção do covil.
+
+## Confronto
+Se eles pensarem em algo legal, a criatividade deles é o limite.
+
 ## Pistas
 *(ainda pensando nelas)*
 
 - **O sobrevivente com urina de doninha.** O domador conta que a criatura só olhou para ele, talvez sentiu o cheiro, e foi embora.
-- Uma dica do espelho *(a definir)*.
+- **O morto e o espelho.** A criatura passou por um vilarejo pequeno, e lá tem alguém caído, esticado em direção a um espelho, como se tivesse morrido tentando alcançá-lo.
+- **A direção.** O aldeão que chega correndo do norte, da vila atacada antes.
+- **A lenda.** A Zaara conta que ele era guardião do antigo imperador.
+- **Os barulhos.** O Cesar ouve coisas estranhas vindas das profundezas das cavernas.
 
 ## Ficha
 
